@@ -1,4 +1,4 @@
-# Hello! 🙋‍♂️
+# Hello! 🙋
 
 
 ###  Current goal
