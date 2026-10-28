@@ -1,16 +1,28 @@
-# Hello! 
+# Hi, I'm Nhuien Ny Kuach
 
+Master’s graduate in Electronic Communications and Radio Engineering,
+interested in software testing, test automation, and network analysis.
 
-###  Current goal
- - Understand how to work with github
-###  I’m currently learning
- - Deep learning (specifically Yann LeCun’s Deep Learning Course at CDS)
- - DevOps
-###  I’m looking to collaborate on
- - Easy to understand and fun projects
-###  I'm really into:
- - Python stuff
- - Videogames 
- 
-###  How to reach me:
- -weedprohp3112@gmail.com
+## Practical experience
+
+During my university studies and internship, I worked on:
+- Python scripts for technical tests and measurement data analysis
+- Simulation and testing of radio systems with MATLAB/Simulink
+- Comparison of measured and expected results
+- Documentation of test results and investigation of deviations
+
+## Tools
+
+- Python
+- MATLAB/Simulink
+- Git
+- Wireshark on Linux — initial practical experience
+
+## Professional interests
+
+I enjoy understanding how systems behave, investigating unexpected
+results, and using code to support technical testing.
+
+## Contact
+
+Email: [n.n.kuach@student.khai.edu](mailto:n.n.kuach@student.khai.edu)
