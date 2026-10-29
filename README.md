@@ -9,9 +9,9 @@ I hold a master's degree in Electronic Communications and Radio Engineering. My 
 
 | Academic lab | Focus |
 | --- | --- |
-| [Terraform & Cloud Networking](https://github.com/Kuach/LR3) | Virtual machines, VPC networks, subnets, and IP addressing |
-| [Jenkins Deployment Workflow](https://github.com/Kuach/RGR/blob/main/OVERVIEW.md) | Pipeline examples, GitHub webhooks, and website deployment |
-| [Google Cloud VM Provisioning](https://github.com/Kuach/LR2) | Console-based and command-line VM setup |
+| [Terraform & Cloud Networking](https://github.com/Kuach/terraform-gcp-network-lab) | Virtual machines, VPC networks, subnets, and IP addressing |
+| [Jenkins Deployment Workflow](https://github.com/Kuach/jenkins-deployment-lab/blob/main/OVERVIEW.md) | Pipeline examples, GitHub webhooks, and website deployment |
+| [Google Cloud VM Provisioning](https://github.com/Kuach/gcp-vm-lab) | Console-based and command-line VM setup |
 
 These repositories contain university lab reports and configuration examples, with English summaries.
 
