@@ -1,28 +1,27 @@
-# Hi, I'm Nhuien Ny Kuach
+# Nhuien Ny Kuach
 
-Master’s graduate in Electronic Communications and Radio Engineering,
-interested in software testing, test automation, and network analysis.
+Electronic Communications & Radio Engineering · Python · Software Testing
+
+I hold a master's degree in Electronic Communications and Radio Engineering. My academic and internship experience includes technical testing, radio-system simulation, and measurement data analysis. I am interested in software test automation and network analysis.
 
 ## Practical experience
 
-During my university studies and internship, I worked on:
-- Python scripts for technical tests and measurement data analysis
-- Simulation and testing of radio systems with MATLAB/Simulink
-- Comparison of measured and expected results
-- Documentation of test results and investigation of deviations
+- Writing Python scripts to support technical tests and data analysis
+- Simulating and testing radio systems with MATLAB/Simulink
+- Comparing measured and expected results and documenting deviations
+- Using Git for version control
+- Initial practical experience with Wireshark on Linux
 
-## Tools
+## Selected academic work
 
-- Python
-- MATLAB/Simulink
-- Git
-- Wireshark on Linux — initial practical experience
+These repositories contain university lab reports, commands, and configuration examples. English summaries are available alongside the original Ukrainian reports.
 
-## Professional interests
-
-I enjoy understanding how systems behave, investigating unexpected
-results, and using code to support technical testing.
+| Repository | Topics |
+| --- | --- |
+| [Infrastructure as Code with Terraform](https://github.com/Kuach/LR3) | Google Cloud VM provisioning, VPC networks, subnets, and IP addressing |
+| [Deployment Automation with Jenkins](https://github.com/Kuach/RGR/blob/main/OVERVIEW.md) | Terraform, Jenkins pipeline examples, GitHub webhooks, and Apache website deployment |
+| [Cloud VM Provisioning](https://github.com/Kuach/LR2) | Creating a Google Cloud VM through the console and the gcloud CLI |
 
 ## Contact
 
-Email: [n.n.kuach@student.khai.edu](mailto:n.n.kuach@student.khai.edu)
+[n.n.kuach@student.khai.edu](mailto:n.n.kuach@student.khai.edu)
