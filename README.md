@@ -1,13 +1,24 @@
 # Nhuien Ny Kuach
 
-**Electronic Communications & Radio Engineering**  
-Python · Software Testing · Network Analysis
+**Python · Software & System Testing · Radio Communications**
 
-I hold a master's degree in Electronic Communications and Radio Engineering. My academic and internship work includes Python scripting, radio-system simulation, and measurement data analysis. I am looking to build on this experience in software testing and test automation.
+I am a master's graduate with a background in radio engineering and telecommunications. Through university projects and an academic internship, I have gained practical experience writing Python test scripts, simulating communications systems with MATLAB/Simulink, and analysing signal and measurement data.
+
+My approach is to understand how a system should behave, test it methodically, investigate discrepancies, and document the results clearly. I learn new tools through practical work and apply them to concrete technical problems.
+
+## Technical Skills
+
+| Area | Practical experience |
+| --- | --- |
+| Python | Technical test scripts and data analysis |
+| MATLAB/Simulink | Radio-system simulation and signal processing |
+| Software & System Testing | Test execution, expected-versus-observed comparisons, fault investigation, and retesting |
+| Network Tools | Wireshark on Linux |
+| Version Control | Git and GitHub |
 
 ## Selected Work
 
-| Academic lab | Focus |
+| University lab | Focus |
 | --- | --- |
 | [Terraform & Cloud Networking](https://github.com/Kuach/terraform-gcp-network-lab) | Virtual machines, VPC networks, subnets, and IP addressing |
 | [Jenkins Deployment Workflow](https://github.com/Kuach/jenkins-deployment-lab/blob/main/OVERVIEW.md) | Pipeline examples, GitHub webhooks, and website deployment |
@@ -17,15 +28,14 @@ These repositories contain university lab reports and configuration examples, wi
 
 [Explore the project directory →](https://github.com/Kuach/Kuach/blob/main/PROJECTS.md)
 
-## Technical Background
+## Education
 
-| Area | Tools and practical experience |
-| --- | --- |
-| Programming | Python scripts for technical tests and data analysis |
-| Simulation | MATLAB/Simulink for radio systems and signal processing |
-| Testing | Software and system tests, result comparison, and documentation |
-| Network Analysis | Initial practical experience with Wireshark on Linux |
-| Version Control | Git and GitHub |
+**National Aerospace University “Kharkiv Aviation Institute”, Ukraine**  
+Faculty of Radio Electronics, Computer Systems and Infocommunications
+
+## Career Focus
+
+Software testing, Python test automation, and verification of communications systems.
 
 ## Contact
 
