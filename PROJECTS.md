@@ -6,7 +6,7 @@ Selected university lab documentation, ordered by relevance to infrastructure au
 
 ## 1. Infrastructure as Code and Networking
 
-**[Terraform on Google Cloud — LR3](https://github.com/Kuach/LR3)**
+**[Terraform on Google Cloud](https://github.com/Kuach/terraform-gcp-network-lab)**
 
 Provisioning a Debian virtual machine, VPC network, and custom subnet with Terraform. The report also covers variables, outputs, and internal versus external IP addresses.
 
@@ -15,7 +15,7 @@ Provisioning a Debian virtual machine, VPC network, and custom subnet with Terra
 
 ## 2. Deployment Automation
 
-**[Terraform and Jenkins — RGR](https://github.com/Kuach/RGR/blob/main/OVERVIEW.md)**
+**[Terraform and Jenkins](https://github.com/Kuach/jenkins-deployment-lab/blob/main/OVERVIEW.md)**
 
 Documentation of a website deployment exercise using cloud infrastructure, an Apache web server, Jenkins pipeline stages, and GitHub webhook triggers.
 
@@ -24,7 +24,7 @@ Documentation of a website deployment exercise using cloud infrastructure, an Ap
 
 ## 3. Cloud VM Provisioning
 
-**[Google Cloud Console and CLI — LR2](https://github.com/Kuach/LR2)**
+**[Google Cloud Console and CLI](https://github.com/Kuach/gcp-vm-lab)**
 
 Comparison of creating a virtual machine through the Google Cloud console and the `gcloud` command-line interface.
 
@@ -33,7 +33,7 @@ Comparison of creating a virtual machine through the Google Cloud console and th
 
 ## Supporting Work
 
-**[Git and GitHub Workflow — LR1](https://github.com/Kuach/LR1/blob/main/OVERVIEW.md)**
+**[Git and GitHub Workflow](https://github.com/Kuach/git-github-lab/blob/main/OVERVIEW.md)**
 
 Foundational lab covering Git configuration, SSH access, cloning, Markdown documentation, commits, and pushes.
 
